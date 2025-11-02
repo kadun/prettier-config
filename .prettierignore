@@ -1,0 +1,14 @@
+**/.yarn/*
+**/lib
+**/www/lib
+**/hooks
+
+*.min.js
+*.min.css
+README.md
+
+# prettier-ignore
+# <!-- prettier-ignore --> (HTML/XML)
+# // prettier-ignore (JS)
+# /* prettier-ignore */ (CSS)
+# {/* prettier-ignore */} (JSX)
