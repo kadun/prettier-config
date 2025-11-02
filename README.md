@@ -1,7 +1,8 @@
 # @kadun/prettier-config
 
-My default Prettier config
+Default Prettier base config
 
 ## Installation
 
-Copy files to root folder
+- Install Prettier
+- Copy files to project's root folder
